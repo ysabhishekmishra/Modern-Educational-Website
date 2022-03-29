@@ -1,1 +1,1 @@
-# Website-of-School-management-system
+# Modern-Educational-Website
